@@ -1,6 +1,6 @@
 ### Hey 👋 I'm Apoorv!
 
-A developer from India, I'm currently doing my Bachelors in Technology majoring in Computer Science. I'm always up to collaborate so hit me up if you want to!
+A developer from India, I'm currently doing my Bachelors in Technology majoring in Computer Science. I'm always looking forward to work with others and learn along. So hit me up if you want to collaborate for any project!
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=apoorvsharma03.apoorvsharma03)
 <!--
