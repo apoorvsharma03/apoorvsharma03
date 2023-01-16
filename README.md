@@ -1,6 +1,6 @@
 ### Hey! 👋, I'm Apoorv 🙂 
 
-Hi 👋 I'm Apoorv, a developer from India! I'm currently doing my Bachelors in Technology, majoring in Computer Science. Hit me up if you want to collaborate ✌️
+A developer from India, I'm currently doing my Bachelors in Technology majoring in Computer Science. I'm always up to collaborate so hit me up if you want to!
 
 <!--
 **apoorvsharma03/apoorvsharma03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
