@@ -1,4 +1,4 @@
-### Hey 👋, I'm Apoorv!
+### Hey 👋 I'm Apoorv!
 
 A developer from India, I'm currently doing my Bachelors in Technology majoring in Computer Science. I'm always up to collaborate so hit me up if you want to!
 
