@@ -2,6 +2,8 @@
 
 A developer from India, I'm currently doing my Bachelors in Technology majoring in Computer Science. I'm always up to collaborate so hit me up if you want to!
 
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=apoorvsharma03.apoorvsharma03)
+
 <!--
 **apoorvsharma03/apoorvsharma03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
